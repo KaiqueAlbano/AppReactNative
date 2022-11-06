@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "appReactExpo",
+    "slug": "appReactExpo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+
+  "androidNavigationBar": {
+   "visible": "BOOLEAN",
+   "barStyle": "STRING",
+   "backgroundColor": "STRING"
+ }
+}
